@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|200487500|54182500|938d94fe-57b3-473b-b8d3-ccf57a0adc72|7822947b-c1a6-4de9-a132-91a351870cfb"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -372,7 +370,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.2,
+        "clearance": 0.01,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -383,8 +381,6 @@
         "nets": [
           "+5V",
           "+VDC",
-          "/UBS_SHEILD",
-          "/USB_GND",
           "/USB_VCC",
           "GND",
           "Net-(JP2-Pad1)",
