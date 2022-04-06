@@ -1,4 +1,4 @@
-14837645186488
+19785413898908
 ProjectLibrary
 D_0805_2012Metric_Pad1.15x1.40mm_HandSolder_No_Silk
 Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
@@ -41,6 +41,27 @@ ItsyBitsy
 0
 33
 33
+ProjectLibrary
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+1
+1
+ProjectLibrary
+MountingHole_3.2mm_M3_ISO7380_Pad
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+1
+1
+ProjectLibrary
+MountingHole_Screw_2.5mm
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+1
+1
 ProjectLibrary
 SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_No_Silk
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
