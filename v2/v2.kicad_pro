@@ -381,10 +381,7 @@
         "nets": [
           "+5V",
           "+VDC",
-          "/USB_VCC",
-          "GND",
-          "Net-(JP2-Pad1)",
-          "Net-(JP2-Pad3)"
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
